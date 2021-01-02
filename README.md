@@ -1,4 +1,4 @@
-# Lading page e-commerce AtomsFive ⚛︎
+# Landing page e-commerce AtomsFive ⚛︎
 
 Realizar la maquetación de un e-commerce para vender el producto ficticio de nuestro equipo utilizando HTML y CSS.
 
