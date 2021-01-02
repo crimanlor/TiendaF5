@@ -18,9 +18,9 @@ Realizar la maquetación de un e-commerce para vender el producto ficticio de nu
 
 ![Demo](tiendaf5.gif)
 
-## Deploy ejercicio en Github pages 📱
+## Deploy en Netlify 📱
 
-https://crimanlor.github.io/tienda-f5/
+https://tiendaf5.netlify.app/
 
 ## Colaboradores 🙌🏼
 
