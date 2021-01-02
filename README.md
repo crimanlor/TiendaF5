@@ -2,7 +2,7 @@
 
 Realizar la maquetación de un e-commerce para vender el producto ficticio de nuestro equipo utilizando HTML y CSS.
 
-## Prerequisitos y herramientas 🛠
+## Prerrequisitos y herramientas 🛠
 
 - Visual Studio Code
 - Control de versiones con git
